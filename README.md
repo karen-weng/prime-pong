@@ -32,16 +32,16 @@ We want to be able to add more features to our product, such as adding more came
 ## Images
 
 #### Gameplay Screen
-![Gameplay Screen](Images/PrimePong - Gameplay Screen.jpg)
+![Gameplay Screen](Images/PrimePong-Gameplay_Screen.jpg)
 
 #### Paddle 1 Backside
-![Paddle 1 Backside](Images/PrimePong - Paddle 1 Backside.jpg)
+![Paddle 1 Backside](Images/PrimePong-Paddle_1_Backside.jpg)
 
 #### Paddle 1 Frontside
-![Paddle 1 Frontside](Images/PrimePong - Paddle 1 Frontside.jpg)
+![Paddle 1 Frontside](Images/PrimePong-Paddle_1_Frontside.jpg)
 
 #### Pingpong Table
-![Pingpong Table](Images/PrimePong - Pingpong Table.jpg)
+![Pingpong Table](Images/PrimePong-Pingpong_Table.jpg)
 
 
 ## Devpost
