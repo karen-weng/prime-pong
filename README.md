@@ -45,6 +45,7 @@ We want to be able to add more features to our product, such as adding more came
 
 
 ## Devpost
+#### Won 3rd place at MakeUofT 2025
 [Link to Devpost Page](https://devpost.com/software/primepong)
 
 
